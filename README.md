@@ -1,1 +1,1 @@
-# omok_corona
+# omok
